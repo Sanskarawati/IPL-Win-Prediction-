@@ -1,0 +1,8 @@
+pip install pandas 
+pip install streamlit
+pip install scikit-learn==1.5.0
+pip install numpy 
+pip install os 
+pip install pickle
+pip install matplotlib
+pip install seaborn
